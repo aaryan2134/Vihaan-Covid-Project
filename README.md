@@ -1,5 +1,5 @@
 # BEATCOVID
-<img src = "https://github.com/Anshnrag02/Vihaan-Covid-Project/blob/main/images/beat.png">
+<img src = "images/beat.png">
 
 # Vihaan-COVID19-Project
 Machine Learning based project on COVID-19 prevention designed for Vihaan 4.0
