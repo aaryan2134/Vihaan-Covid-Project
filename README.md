@@ -10,6 +10,8 @@ Machine Learning based project on COVID-19 prevention designed for Vihaan 4.0
 [Aaryan Arora](https://github.com/aaryan2134)</br>
 [Ansh Anurag](https://github.com/Anshnrag02)</br>
 
+# Awards
+[Winner at Vihaan 4.0 (Best Freshers Team)](https://devfolio.co/submissions/beatcovid-1829)
 ## Installation:
 * Clone the repository and download the code:<br>
    -```gh repo clone aaryan2134/Vihaan-Covid-Project/```
