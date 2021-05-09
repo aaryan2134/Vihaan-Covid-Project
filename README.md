@@ -12,6 +12,7 @@ Machine Learning based project on COVID-19 prevention designed for Vihaan 4.0
 
 # Awards
 [Winner at Vihaan 4.0 (Best Freshers Team)](https://devfolio.co/submissions/beatcovid-1829)
+[Certificate](Vihaan.png)
 ## Installation:
 * Clone the repository and download the code:<br>
    -```gh repo clone aaryan2134/Vihaan-Covid-Project/```
